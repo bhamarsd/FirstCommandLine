@@ -4,5 +4,6 @@ public class Family {
 	   int child;
 	   int father;
 	   int mom;
+	   int mother;
 	   int rupali;
 }
