@@ -6,4 +6,5 @@ public class Family {
 	   int mom;
 	   int mother;
 	   int rupali;
+	   int jaiho;
 }
